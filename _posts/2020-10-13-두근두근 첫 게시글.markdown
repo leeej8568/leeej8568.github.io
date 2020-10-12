@@ -1,0 +1,10 @@
+---
+layout: post
+title: 안녕 잉디로그 !
+date: 2020-10-13 01:30
+comments: true
+external-url:
+categories: Mathematics
+---
+
+> 잉디로그 탄생 역사적인 순간 기록
